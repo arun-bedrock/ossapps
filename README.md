@@ -145,6 +145,8 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Weather module for Fitbit OS](https://github.com/gregoiresage/fitbit-weather) by Grégoire Sage - Weather module for Fitbit OS.
 * [Weather module for Fitbit OS (types)](https://github.com/JeremyJeanson/fitbit-weather-types) by Jérémy Jeanson - Include type defintions to use "Weather module for Fitbit OS" with TypeScript.
 
+* TEST
+
 ## Examples
 * [Accelerometer Fetcher](https://github.com/gondwanasoft/fitbit-accel-fetcher) by Gondwana Software - demonstrates how to collect, store and send sensor data to a server for download.
 * [Altimeter](https://github.com/Fitbit/sdk-altimeter) by Team Fitbit - Fitbit SDK example application which simulates an altimeter using the Barometer sensor.
